@@ -1,0 +1,11 @@
+text,label
+"Your account has been blocked click here to verify",phishing
+"Congratulations you won a free prize claim now",phishing
+"Urgent update your bank password immediately",phishing
+"Click this link to reset your account",phishing
+"Your PayPal account is suspended login now",phishing
+"Meeting is scheduled tomorrow at 10 AM",safe
+"Please find attached the project report",safe
+"Your assignment has been submitted successfully",safe
+"Class test will be conducted next Monday",safe
+"Can we discuss the project today evening",safe
